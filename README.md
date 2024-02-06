@@ -47,7 +47,8 @@ Copyright (c) 2024 Federico Fabbri
 Licensed under the [MIT license](https://github.com/dmarch/abigoos/blob/master/LICENSE).
 
 
-
+## Citation
+Cite the code: [![DOI](https://zenodo.org/badge/753592347.svg)](https://zenodo.org/doi/10.5281/zenodo.10624747)
 ## Acknowledgements
 
 FF acknowledges funding support from the Erasmus Mundus Master Course on Maritime Spatial Planning (EMMCMSP) program to conduct a research internship at the Balearic Islands Coastal Observing and Forecasting System (ICTS SOCIB) and the University of Aix-Marseille through the Inter-ED Thesis funding program. 
