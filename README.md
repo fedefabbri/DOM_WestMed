@@ -1,4 +1,4 @@
-# dom-wmed
+# dom-WestMed
 
 
 ### Requirements
