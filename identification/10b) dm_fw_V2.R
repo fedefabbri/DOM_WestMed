@@ -4,7 +4,7 @@
 # This script makes a social network analysis among the selected stakeholders or countries
 # Each stakeholder/country is represent with a node in the network.
 # Links between stakeholders are computed according to the number of times they have been
-# selected together for each simulated MPA.
+# selected together for each simulated MPA for fin whale (fw) conservation.
 # Once created the network, we calculate several network metrics to assess the connectivity
 # and relevance of the stakeholders.
 
