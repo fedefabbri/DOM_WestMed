@@ -37,7 +37,7 @@ Folder `/geodatabase` contains R scripts for geocoding addresses of organization
 Folder `/zoning` contains R scripts to create hypothetical restricted areas.
 
 ### Stakeholder selection
-Folder `/identification` contains R scripts to select stakehoders based on: (1) distance to MPA, (2) overlap with jurisdictionwal waters, (3) overlap with AIS data.
+Folder `/identification` contains R scripts to select stakehoders based on: (1) distance to MPA, (2) overlap with jurisdictionwal waters
 
 
 
@@ -49,6 +49,7 @@ Licensed under the [MIT license](https://github.com/dmarch/abigoos/blob/master/L
 
 ## Citation
 Cite the code: [![DOI](https://zenodo.org/badge/753592347.svg)](https://zenodo.org/doi/10.5281/zenodo.10624747)
+
 ## Acknowledgements
 
 FF acknowledges funding support from the Erasmus Mundus Master Course on Maritime Spatial Planning (EMMCMSP) program to conduct a research internship at the Balearic Islands Coastal Observing and Forecasting System (ICTS SOCIB) and the University of Aix-Marseille through the Inter-ED Thesis funding program. 
